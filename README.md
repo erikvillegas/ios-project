@@ -1,5 +1,5 @@
 # iOS Coding Project
-We'd like you to make a simple Imgur gallery app that displays photos tagged with a certain string, and displays comments users have posted for that photo.
+We'd like you to make a simple Imgur gallery app that displays photos tagged with a certain string, and displays comments users have posted for that photo. Fork this repository and use the boilerplate code provided to get started.
 
 Imgur API: https://apidocs.imgur.com
 
